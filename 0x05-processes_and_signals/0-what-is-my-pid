@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Print current PID
+#this script is to display the id of this bash script
 
-echo $$
+echo "$$"
